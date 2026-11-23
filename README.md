@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,65:0F2942,100:00D4FF&height=200&section=header&text=Luciano%20Acu%C3%B1a&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20%26%20AI%20Engineering%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Banner de Luciano Acuña" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,65:0F2942,100:00D4FF&height=200&section=header&text=Luciano%20Acu%C3%B1a&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Ingenier%C3%ADa%20de%20Software%20e%20IA%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Banner de Luciano Acuña" />
 
   <a href="https://github.com/ZLUCK4270">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=680&lines=Ingenier%C3%ADa+de+Software+con+Inteligencia+Artificial;Desarrollador+Full+Stack+%26+Analista+de+Datos;Construyendo+arquitecturas+escalables+y+sistemas+RAG" alt="Typing SVG" />
